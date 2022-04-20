@@ -1,1 +1,1 @@
-# TTG
+# Google-Lens-Vs-Mobilenet
